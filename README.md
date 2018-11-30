@@ -8,7 +8,7 @@ This issue appeared to be plaguing many users in the first hours of launch. As y
 
 Many players across all platforms are experiencing a horrifying glitch related to power armor. When some folks attempt to leave their power armor they find that they are unable to do so. Making matters worse, they appear to other players without clothes and mutated bodies. No fix has been announced at this point in time.
 
-3. Fallout 76 missing enemies
+3. Missing enemies
 
 On more than a few quests, we've experienced bugs where enemy locations would be marked, despite not spawning. However, upon visiting their location, there was nothing there. We've heard similar experiences from many, making quests unfinishable. Most often, we were able to resolve this by logging out and back in again.
 
