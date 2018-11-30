@@ -4,9 +4,9 @@
 
 This issue appeared to be plaguing many users in the first hours of launch. As you try to log in, you will see a "Found World" notification and then you will be promptly "Disconnected From Server". The solution seems to have been to keep trying until you get in. However, this issue has been resolved on Bethesda's end for the most part.
 
-What type of box testing is this - Black Box Testing                                              White Box Testing       
+What type of box testing is this - Black Box Testing                                                   
 
-What type of testing should have be used to identify this bug
+What type of testing should have be used to identify this bug - Negative Testing - Negative Testing Validates an application/software/web site to validate error conditions
 
 List the steps you would use to identify and test this particular bug
 
@@ -16,7 +16,7 @@ Many players across all platforms are experiencing a horrifying glitch related t
 
 What type of box testing is this - Black Box Testing
 
-What type of testing should have be used to identify this bug
+What type of testing should have be used to identify this bug - Stress Testing - Stress Testing is used to answer the important question of at which point will my program break
 
 List the steps you would use to identify and test this particular bug
 
@@ -26,7 +26,7 @@ On more than a few quests, we've experienced bugs where enemy locations would be
 
 What type of box testing is this - White Box Testing 
 
-What type of testing should have be used to identify this bug
+What type of testing should have be used to identify this bug - Conformance Testing - Conformance Testing produces tests for quality factors such as portability, interoperability, and/or compatibility a standard defines
 
 List the steps you would use to identify and test this particular bug
 
@@ -36,7 +36,7 @@ There are widespread reports that the token dispenser in Prickett Fort is totall
 
 What type of box testing is this - White Box Testing 
 
-What type of testing should have be used to identify this bug
+What type of testing should have be used to identify this bug - Unit Testing - Unit Testing produces tests for the behavior of components of a product to ensure their correct behavior prior to system integration
 
 List the steps you would use to identify and test this particular bug
 
@@ -46,6 +46,6 @@ Lots of users are reporting that they are hearing gunshots near them when there 
 
 What type of box testing is this - Black Box Testing 
 
-What type of testing should have be used to identify this bug
+What type of testing should have be used to identify this bug - System Testing - System Testing produces conducted on a complete, integrated system to evaluate the system's compliance with its specified requirements
 
 List the steps you would use to identify and test this particular bug
