@@ -8,7 +8,7 @@ What type of box testing is this - Black Box Testing
 
 What type of testing should have be used to identify this bug - Negative Testing - Negative Testing Validates an application/software/web site to validate error conditions
 
-List the steps you would use to identify and test this particular bug
+List the steps you would use to identify and test this particular bug - If you come across the quest progression bug, your best bet is to leave the server that you’re playing on. Once you’ve done that, you can either load up Fallout 76 in a different server, or have your friends invite you back onto the server that you were originally playing on.
 
 2. Power Armor horror
 
@@ -18,7 +18,12 @@ What type of box testing is this - Black Box Testing
 
 What type of testing should have be used to identify this bug - Stress Testing - Stress Testing is used to answer the important question of at which point will my program break
 
-List the steps you would use to identify and test this particular bug
+List the steps you would use to identify and test this particular bug - 
+1. Determine breaking points or safe usage limits
+2. Confirm mathematical model is accurate enough in predicting breaking points or safe usage limits
+3. Confirm intended specifications are being met
+4. Determine modes of failure (how exactly a system fails)
+5. Test stable operation of a part or system outside standard usage
 
 3. Missing enemies
 
@@ -28,7 +33,10 @@ What type of box testing is this - White Box Testing
 
 What type of testing should have be used to identify this bug - Conformance Testing - Conformance Testing produces tests for quality factors such as portability, interoperability, and/or compatibility a standard defines
 
-List the steps you would use to identify and test this particular bug
+List the steps you would use to identify and test this particular bug - 
+1. Determine that the development and maintenance process meets the prescribed methodology.
+2. Ensure whether the deliverables of each phase of the development, meets the standards, procedures and guidelines.
+3. Evaluate the documentation of the project to check for completeness and reasonableness
 
 4. Prickett Fort token issues
 
@@ -38,7 +46,7 @@ What type of box testing is this - White Box Testing
 
 What type of testing should have be used to identify this bug - Unit Testing - Unit Testing produces tests for the behavior of components of a product to ensure their correct behavior prior to system integration
 
-List the steps you would use to identify and test this particular bug
+List the steps you would use to identify and test this particular bug - Validate each unit of the software performs as designed. Test each unit to the smallest testable part of any software. It usually has one or a few inputs and usually a single output.
 
 5. Ghostly gunshots
 
@@ -48,4 +56,4 @@ What type of box testing is this - Black Box Testing
 
 What type of testing should have be used to identify this bug - System Testing - System Testing produces conducted on a complete, integrated system to evaluate the system's compliance with its specified requirements
 
-List the steps you would use to identify and test this particular bug
+List the steps you would use to identify and test this particular bug - Analysis techniques to evaluate the properties of a material, component or system without causing damage
